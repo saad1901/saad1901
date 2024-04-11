@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DS, Cloud and Netwoking<br>🌱 I’m currently learning<br>💬 Ask me about: Cloud and DevOps<br>
+🔭 I’m currently working on DS, Cloud and Netwoking<br>🌱 A 3rd Year College Student<br>💬 Ask me about: Cloud and DevOps<br>
 
 
 ## 🌐 Socials:
