@@ -13,10 +13,7 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saad-py&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/6b8d3c4c-2e94-4faa-8c5a-1c7a5c5f0f7a.svg" alt="Coding Time" />
-</div>
+
 
 ---
 
