@@ -1,21 +1,65 @@
-<h1 align="center">Hi 👋, I'm Saad!</h1>
-<h3 align="center">A passionate Backend & Cloud Engineer from India</h3>
-
-- 🔭 I’m currently working on [SaaS Models](https://hotelsoftware.pythonanywhere.com/)
-
-- 🌱 I’m currently learning **Django, FastAPI, AWS, DevOps**
-
-- 💬 Ask me about **Backend**
-
-- 📫 How to reach me **saadiqbal1921@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1juv4eR74AepmVt_SkzIjdkSv-ipOIi85/view?usp=sharing](https://drive.google.com/file/d/1juv4eR74AepmVt_SkzIjdkSv-ipOIi85/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saad99" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad99" height="30" width="40" /></a>
-<a href="https://instagram.com/saad.env" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad.env" height="30" width="40" /></a>
+<p align="center">
+  <h1>👋 Hi, I’m Saad!</h1>
+  <h3>A passionate Backend & Cloud Engineer from India</h3>
+  <p>
+    <a href="https://github.com/saad99" target="_blank">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/saad99?label=Follow&style=social" />
+    </a>
+    <a href="https://github.com/saad99/HotelSoftware" target="_blank">
+      <img alt="Repository stars" src="https://img.shields.io/github/stars/saad99/HotelSoftware?style=social" />
+    </a>
+  </p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 🔭 Currently Working On
+[SaaS Models](https://hotelsoftware.pythonanywhere.com/)  
+_A hotel management SaaS built with Python & Django._
+
+## 🌱 I’m Learning
+- **Backend:** Django, FastAPI  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes  
+
+## 💬 Ask Me About
+- Designing RESTful APIs  
+- Microservices architecture  
+- Cloud infrastructure & CI/CD pipelines  
+
+## 📫 How to Reach Me
+- Email: [saadiqbal1921@gmail.com](mailto:saadiqbal1921@gmail.com)  
+- Resume: [View on Google Drive](https://drive.google.com/file/d/1juv4eR74AepmVt_SkzIjdkSv-ipOIi85/view?usp=sharing)
+
+## 🔗 Connect with Me
+<p>
+  <a href="https://linkedin.com/in/saad99" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/saad.env" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=for-the-badge" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge" alt="Linux" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&style=for-the-badge" alt="Redis" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&style=for-the-badge" alt="TailwindCSS" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saad99&show_icons=true&theme=dark&count_private=true" alt="Saad's GitHub Stats"/>
+</p>
