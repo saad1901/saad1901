@@ -96,7 +96,7 @@
 - 🏫 **Multi-Module System**: Public Frontend, Staff Panel, Student & Parent Portal
 
 ### ☁️ [Cloud Storage Application](https://github.com/saad1901)
-**Oct 2024** | `Django` `AWS S3` `Bootstrap` `JWT`
+**Feb 2025** | `Django` `AWS S3` `Bootstrap` `JWT`
 
 - 🪣 **AWS S3 Integration** with custom bucket connections
 - 📂 **File Management** through user-friendly interface
