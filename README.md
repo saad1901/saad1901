@@ -81,7 +81,7 @@
 ## 🚀 Featured Projects
 
 ### ⚡ [Smart Resource Access Gateway](https://github.com/saad1901)
-**Jan 2025** | `FastAPI` `Redis` `JWT` `Docker`
+**Jun 2025** | `FastAPI` `Redis` `JWT` `Docker`
 
 - 🔐 **JWT Authentication** with resource-scoped tokens and security-first design
 - ⚡ **Rate Limiting** powered by Redis for high-performance API management
