@@ -22,7 +22,7 @@
 
 ## 🎯 About Me
 
-- 🎓 **B.Tech IT** from Government College of Engineering Aurangabad (Expected Jun 2025)
+- 🎓 **B.Tech IT** from Government College of Engineering Aurangabad (Expected Aug 2025)
 - 🏆 **GATE 2025 AIR - 8217**
 - 💼 **Full Stack Intern** at Being Social Service Agency, Mumbai
 - 🌱 Currently focused on **Cloud Architecture** and **Scalable Backend Systems**
