@@ -112,7 +112,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saad1901&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad1901&layout=compact&theme=radical&hide_border=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad1901&theme=radical&hide_border=true" />
+  
 </div>
 
 ---
