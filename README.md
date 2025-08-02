@@ -8,12 +8,15 @@
 
 ---
 
-## 💬 Feedback & Suggestions
-<p align="center">
-  <a href="https://forms.gle/BmwuKC9R8fo8sYd9A" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20Here%20to%20Share%20Feedback-2E9FFF?style=for-the-badge&logo=google-forms&logoColor=white" alt="Feedback Form" />
-  </a>
-</p>
+## 💬 Feedback & Suggestions  
+
+<div align="center">
+
+### 🟢 **We value your feedback!**  
+
+[![Click Here to Share Feedback](https://img.shields.io/badge/SHARE%20YOUR%20FEEDBACK-FFB000?style=for-the-badge&logo=google-forms&logoColor=white)](https://forms.gle/BmwuKC9R8fo8sYd9A)  
+
+</div>
 
 <p align="center">
   <em>Share suggestions, feedback, or rejection reasons easily.<br>
