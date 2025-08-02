@@ -6,6 +6,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Python+%26+Cloud+Developer;Full+Stack+Engineer;Django+%7C+FastAPI+%7C+AWS;Building+Scalable+Applications" alt="Typing SVG" />
 </p>
 
+---
+
+## 💬 Feedback & Suggestions
+<p align="center">
+  <a href="https://forms.gle/your-google-form-id" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here%20to%20Share%20Feedback-2E9FFF?style=for-the-badge&logo=google-forms&logoColor=white" alt="Feedback Form" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Share suggestions, feedback, or rejection reasons easily.<br>
+  Your feedback helps me grow! Anonymous submissions allowed.</em>
+</p>
+
+---
+
 <p align="center">
   <a href="https://linkedin.com/in/saad99" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
