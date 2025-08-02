@@ -17,7 +17,7 @@
 
 <p align="center">
   <em>Share suggestions, feedback, or rejection reasons easily.<br>
-  Your feedback helps me grow! Anonymous submissions allowed.</em>
+  Your feedback helps me grow!.</em>
 </p>
 
 ---
