@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🟢 **We value your feedback!**  
+### 🟢 ** I value your feedback!**  
 
 [![Click Here to Share Feedback](https://img.shields.io/badge/SHARE%20YOUR%20FEEDBACK-FFB000?style=for-the-badge&logo=google-forms&logoColor=white)](https://forms.gle/BmwuKC9R8fo8sYd9A)  
 
