@@ -155,7 +155,7 @@
   <img src="https://img.shields.io/badge/GATE_2025-AIR_8217-gold?style=for-the-badge&logo=academic&logoColor=white" />
   <img src="https://img.shields.io/badge/HSC-94.60%25-brightgreen?style=for-the-badge&logo=academic&logoColor=white" />
   <img src="https://img.shields.io/badge/MHT--CET-96.36%25ile-blue?style=for-the-badge&logo=academic&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSC-87%25-brightred?style=for-the-badge&logo=academic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSC-87%25-red?style=for-the-badge&logo=academic&logoColor=white" />
 </div>
 
 ---
