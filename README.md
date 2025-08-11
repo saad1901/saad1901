@@ -185,7 +185,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
-
-
-at somewhere top, add a input field, for Suggestion/Feedback, Rejection reason
-that sends data to a url
