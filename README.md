@@ -150,22 +150,23 @@ CGPA: 7.75/10 | Relevant Coursework: Data Structures, DBMS, Operating Systems, C
 - **HSC (PCM)** – 94.60% | Al-Irfan Jr. College, Khuldabad
 - **MHT-CET 2021** – 96.36 Percentile
 
-## Let's Connect
+---
 
-I'm always open to discussing new opportunities, collaborations, or interesting projects. Feel free to reach out!
-
-<p align="center">
-  <a href="mailto:saadiqbal1921@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saadiqbal1921%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/saad99">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="tel:+918799878583">
-    <img src="https://img.shields.io/badge/Phone-%2B91%2087998%2078583-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
-</p>
+## 📬 Contact Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
+  
+📧 **Email:** saadiqbal1921@gmail.com  
+📱 **Phone:** +91 87998 78583  
+📍 **Location:** Aurangabad, Maharashtra, India  
+📬 *Let’s build something amazing together!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=saad1901&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
