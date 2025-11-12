@@ -1,16 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Saad%20Iqbal&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Developer&descAlignY=55&descSize=20" />
-  
-  <br>
-  <br>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Django%20%7C%20FastAPI%20%7C%20AWS;Full+Stack+Developer;Cloud+Native+Specialist;MTech+COEP+Student;Open+Source+Contributor" alt="Typing SVG" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Saad%20Iqbal&fontSize=80&fontAlignY=40" />
 </div>
 
+<br>
 
-<h3 align="center">Building scalable cloud-native applications with Python, Django, and AWS</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+Cloud+Developer;Python+%7C+Django+%7C+FastAPI+%7C+AWS;Building+Scalable+Cloud-Native+Applications;Passionate+About+Clean+Code+%26+Architecture" alt="Typing SVG" />
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/saad99" target="_blank">
