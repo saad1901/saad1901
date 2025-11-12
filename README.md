@@ -1,45 +1,44 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Saad%20Iqbal&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Developer&descAlignY=55&descSize=20" />
   
-  <!-- Added gap between name and animated title -->
   <br>
   <br>
 
-  <!-- Typing animation for changing titles -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Django%20%7C%20FastAPI%20%7C%20AWS;Full+Stack+Developer;Cloud+Native+Specialist;MTech+COEP+Student;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Building scalable cloud-native applications with Python, Django, and AWS</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saad99">
+  <a href="https://linkedin.com/in/saad99" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:saadiqbal1921@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/saad1901">
+  <a href="https://github.com/saad1901" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <img src="https://komarev.com/ghpvc/?username=saad1901&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views">
 </p>
 
-## About Me
+---
 
-role: Full Stack Engineer & Cloud Developer
-location: Aurangabad, Maharashtra, India
-education: B.Tech in Information Technology (Government College of Engineering, Aurangabad)
-postgrad: M.Tech (Pursuing, College of Engineering Pune [COEP])
-graduation: August 2025
-current: Full Stack Intern @ Being Social, Mumbai
-focus: [Cloud Native Development, Microservices, System Design]
-certifications: GATE 2025 Qualified (AIR 8217)
+## 👋 About Me
 
-text
+- **Role:** Full Stack Engineer & Cloud Developer
+- **Location:** Aurangabad, Maharashtra, India
+- **Education:** B.Tech in Information Technology (Government College of Engineering, Aurangabad)
+- **Postgrad:** M.Tech (Pursuing, College of Engineering Pune [COEP], graduating August 2025)
+- **Current Role:** Full Stack Intern @ Being Social, Mumbai
+- **Focus:** **Cloud Native Development, Microservices, System Design**
+- **Certifications:** GATE 2025 Qualified (AIR 8217)
 
-I specialize in building robust backend systems and cloud-native applications using Python frameworks. Currently working on enhancing application performance and implementing scalable solutions with modern tech stacks. Passionate about clean code, system architecture, and continuous learning.
+I specialize in building **robust backend systems** and **cloud-native applications** using **Python** frameworks like **Django** and **FastAPI**. Currently working on enhancing application performance and implementing scalable solutions with modern tech stacks. Passionate about clean code, system architecture, and continuous learning.
 
-## Technical Skills
+---
+
+## 🛠️ Technical Skills
 
 <table>
 <tr>
@@ -52,7 +51,7 @@ I specialize in building robust backend systems and cloud-native applications us
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 
-### Databases
+### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -77,17 +76,21 @@ I specialize in building robust backend systems and cloud-native applications us
 </tr>
 </table>
 
-## Professional Experience
+---
+
+## 💼 Professional Experience
 
 ### Full Stack Intern | Being Social Service Agency, Mumbai
 **November 2024 – March 2025**
 
-- Enhanced application performance and reliability across multiple technology stacks
-- Implemented database optimization strategies with MariaDB to ensure high availability
-- Collaborated with cross-functional teams to deliver full-stack features and improvements
-- Contributed to codebase maintenance and feature development using modern frameworks
+* Enhanced application **performance** and **reliability** across multiple technology stacks.
+* Implemented database optimization strategies with **MariaDB** to ensure **high availability**.
+* Collaborated with cross-functional teams to deliver **full-stack features** and improvements.
+* Contributed to codebase maintenance and feature development using modern frameworks.
 
-## Featured Projects
+---
+
+## 💡 Featured Projects
 
 <table>
 <tr>
@@ -96,7 +99,7 @@ I specialize in building robust backend systems and cloud-native applications us
 ### Smart Resource Access Gateway
 **Tech Stack:** FastAPI · Redis · JWT · Docker
 
-A secure API gateway implementing JWT-based authentication with scoped access tokens. Features include Redis-powered rate limiting, comprehensive audit logging, and containerized deployment for scalability.
+A **secure API gateway** implementing **JWT-based authentication** with scoped access tokens. Features include **Redis-powered rate limiting**, comprehensive audit logging, and **containerized deployment** for scalability.
 
 [View Repository →](https://github.com/saad1901)
 
@@ -106,7 +109,7 @@ A secure API gateway implementing JWT-based authentication with scoped access to
 ### School ERP System
 **Tech Stack:** Django · PostgreSQL · Bootstrap
 
-Comprehensive educational management system with role-based access control for administrators, teachers, students, and parents. Includes media management, modular UI components, and dedicated dashboards.
+Comprehensive educational management system with **role-based access control** for administrators, teachers, students, and parents. Includes media management, modular UI components, and dedicated dashboards.
 
 [View Repository →](https://github.com/saad1901)
 
@@ -118,7 +121,7 @@ Comprehensive educational management system with role-based access control for a
 ### Cloud Storage Application
 **Tech Stack:** Django · AWS S3 · JWT
 
-Secure cloud storage solution integrated with AWS S3 for reliable file management. Implements JWT authentication, responsive web interface, and efficient file handling capabilities.
+Secure cloud storage solution integrated with **AWS S3** for reliable file management. Implements **JWT authentication**, responsive web interface, and efficient file handling capabilities.
 
 [View Repository →](https://github.com/saad1901)
 
@@ -128,7 +131,7 @@ Secure cloud storage solution integrated with AWS S3 for reliable file managemen
 ### Movie Recommendation Engine
 **Tech Stack:** Django · Scikit-Learn · TMDB API
 
-Content-based recommendation system leveraging machine learning algorithms. Integrates real-time data from TMDB API with a clean, user-friendly interface.
+**Content-based recommendation system** leveraging machine learning algorithms (**Scikit-Learn**). Integrates real-time data from **TMDB API** with a clean, user-friendly interface.
 
 [View Repository →](https://github.com/saad1901)
 
@@ -136,7 +139,9 @@ Content-based recommendation system leveraging machine learning algorithms. Inte
 </tr>
 </table>
 
-## GitHub Analytics
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saad1901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
@@ -147,19 +152,22 @@ Content-based recommendation system leveraging machine learning algorithms. Inte
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad1901&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </p>
 
-## Education & Achievements
+---
+
+## 🎓 Education & Achievements
 
 ### B.Tech in Information Technology
-**Government College of Engineering, Aurangabad (GECA)** | 2021 – 2025  
-CGPA: 7.75/10 | Relevant Coursework: Data Structures, DBMS, Operating Systems, Computer Networks, OOP
+**Government College of Engineering, Aurangabad (GECA)** | 2021 – 2025
+* **CGPA:** 7.75/10
+* **Relevant Coursework:** Data Structures, DBMS, Operating Systems, Computer Networks, OOP
 
 ### M.Tech (Pursuing)
 **College of Engineering Pune (COEP)**
 
 ### Academic Achievements
-- **GATE 2025 Qualified** – All India Rank 8217
-- **HSC (PCM)** – 94.60% | Al-Irfan Jr. College, Khuldabad
-- **MHT-CET 2021** – 96.36 Percentile
+* **GATE 2025 Qualified** – All India Rank 8217
+* **HSC (PCM)** – 94.60% | Al-Irfan Jr. College, Khuldabad
+* **MHT-CET 2021** – 96.36 Percentile
 
 ---
 
@@ -170,13 +178,9 @@ CGPA: 7.75/10 | Relevant Coursework: Data Structures, DBMS, Operating Systems, C
 📧 **Email:** [saadiqbal1921@gmail.com](mailto:saadiqbal1921@gmail.com)  
 📱 **Phone:** +91 87998 78583  
 📍 **Location:** Aurangabad, Maharashtra, India  
-📬 *Let’s build something amazing together!*
-
-![Profile Views](https://komarev.com/ghpvc/?username=saad1901&color=brightgreen&style=flat-square&label=Profile+Views)
+**Let’s build something amazing together!**
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
