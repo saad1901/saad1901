@@ -1,17 +1,24 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Saad%20Iqbal&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Developer&descAlignY=55&descSize=20" />
+  
+  <!-- Added gap between name and animated title -->
+  <br>
+  <br>
+
+  <!-- Typing animation for changing titles -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Django%20%7C%20FastAPI%20%7C%20AWS;Full+Stack+Developer;Cloud+Native+Specialist;MTech+COEP+Student;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Building scalable cloud-native applications with Python, Django, and AWS</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/saad99" target="_blank">
+  <a href="https://linkedin.com/in/saad99">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:saadiqbal1921@gmail.com" target="_blank">
+  <a href="mailto:saadiqbal1921@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://github.com/saad1901" target="_blank">
+  <a href="https://github.com/saad1901">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <img src="https://komarev.com/ghpvc/?username=saad1901&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views">
@@ -19,15 +26,16 @@
 
 ## About Me
 
-```yaml
 role: Full Stack Engineer & Cloud Developer
 location: Aurangabad, Maharashtra, India
-education: B.Tech in Information Technology (CGPA: 7.75/10)
+education: B.Tech in Information Technology (Government College of Engineering, Aurangabad)
+postgrad: M.Tech (Pursuing, College of Engineering Pune [COEP])
 graduation: August 2025
 current: Full Stack Intern @ Being Social, Mumbai
 focus: [Cloud Native Development, Microservices, System Design]
 certifications: GATE 2025 Qualified (AIR 8217)
-```
+
+text
 
 I specialize in building robust backend systems and cloud-native applications using Python frameworks. Currently working on enhancing application performance and implementing scalable solutions with modern tech stacks. Passionate about clean code, system architecture, and continuous learning.
 
@@ -142,8 +150,11 @@ Content-based recommendation system leveraging machine learning algorithms. Inte
 ## Education & Achievements
 
 ### B.Tech in Information Technology
-**Government College of Engineering, Aurangabad** | 2021 – 2025  
+**Government College of Engineering, Aurangabad (GECA)** | 2021 – 2025  
 CGPA: 7.75/10 | Relevant Coursework: Data Structures, DBMS, Operating Systems, Computer Networks, OOP
+
+### M.Tech (Pursuing)
+**College of Engineering Pune (COEP)**
 
 ### Academic Achievements
 - **GATE 2025 Qualified** – All India Rank 8217
@@ -155,8 +166,8 @@ CGPA: 7.75/10 | Relevant Coursework: Data Structures, DBMS, Operating Systems, C
 ## 📬 Contact Me
 
 <div align="center">
-  
-📧 **Email:** saadiqbal1921@gmail.com  
+
+📧 **Email:** [saadiqbal1921@gmail.com](mailto:saadiqbal1921@gmail.com)  
 📱 **Phone:** +91 87998 78583  
 📍 **Location:** Aurangabad, Maharashtra, India  
 📬 *Let’s build something amazing together!*
