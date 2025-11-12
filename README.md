@@ -30,9 +30,9 @@
 - **Role:** Full Stack Engineer & Cloud Developer
 - **Location:** Aurangabad, Maharashtra, India
 - **Education:** B.Tech in Information Technology (Government College of Engineering, Aurangabad)
-- **Postgrad:** M.Tech (Pursuing, College of Engineering Pune [COEP], graduating August 2025)
+- **Postgrad:** M.Tech (Pursuing, College of Engineering Pune (COEP), graduating August 2027)
 - **Current Role:** Full Stack Intern @ Being Social, Mumbai
-- **Focus:** **Cloud Native Development, Microservices, System Design**
+- **Focus:** **Cloud Native Development, Microservices, System Design, ML**
 - **Certifications:** GATE 2025 Qualified (AIR 8217)
 
 I specialize in building **robust backend systems** and **cloud-native applications** using **Python** frameworks like **Django** and **FastAPI**. Currently working on enhancing application performance and implementing scalable solutions with modern tech stacks. Passionate about clean code, system architecture, and continuous learning.
@@ -159,11 +159,12 @@ Secure cloud storage solution integrated with **AWS S3** for reliable file manag
 
 ### B.Tech in Information Technology
 **Government College of Engineering, Aurangabad (GECA)** | 2021 – 2025
-* **CGPA:** 7.75/10
+* **CGPA:** 7.76/10
 * **Relevant Coursework:** Data Structures, DBMS, Operating Systems, Computer Networks, OOP
 
-### M.Tech (Pursuing)
-**College of Engineering Pune (COEP)**
+### M.Tech Computer Science (Pursuing)
+**College of Engineering Pune (COEP) 2025 – 2027**
+* **Relevant Coursework:** Computer Architecture, Advanced Networking, Algorithms
 
 ### Academic Achievements
 * **GATE 2025 Qualified** – All India Rank 8217
