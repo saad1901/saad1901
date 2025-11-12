@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Saad%20Iqbal&fontSize=80&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Shaikh%20Saad&fontSize=80&fontAlignY=40" />
 </div>
 
 <br>
@@ -163,7 +163,7 @@ Secure cloud storage solution integrated with **AWS S3** for reliable file manag
 * **Relevant Coursework:** Data Structures, DBMS, Operating Systems, Computer Networks, OOP
 
 ### M.Tech Computer Science (Pursuing)
-**College of Engineering Pune (COEP) 2025 – 2027**
+**College of Engineering Pune (COEP)** | 2025 – 2027
 * **Relevant Coursework:** Computer Architecture, Advanced Networking, Algorithms
 
 ### Academic Achievements
