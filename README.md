@@ -4,8 +4,11 @@
   <br>
   <br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Django%20%7C%20FastAPI%20%7C%20AWS;Full+Stack+Developer;Cloud+Native+Specialist;MTech+COEP+Student;Open+Source+Contributor" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=Django%20%7C%20FastAPI%20%7C%20AWS;Full+Stack+Developer;Cloud+Native+Specialist;MTech+COEP+Student;Open+Source+Contributor" alt="Typing SVG" />
+  </p>
 </div>
+
 
 <h3 align="center">Building scalable cloud-native applications with Python, Django, and AWS</h3>
 
