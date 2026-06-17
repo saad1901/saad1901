@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=Building+scalable+backend+APIs+and+AI-powered+systems;FastAPI+%7C+Django+%7C+LangChain+%7C+Redis+%7C+PostgreSQL;Focused+on+NL2SQL%2C+agentic+workflows+and+distributed+async+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=Building+scalable+backend+APIs+and+AI-powered+systems;FastAPI+%7C+Django+%7C+LangChain+%7C+Redis+%7C+PostgreSQL;Focused+on+NL2SQL%2C+agentic+workflows+and+distributed+async+pipelines" alt="Typing SVG" />
 </div>
 
 <div align="center">
