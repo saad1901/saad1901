@@ -161,13 +161,6 @@ Currently, I am pursuing an M.Tech in Computer Science and Engineering at COEP T
 ## GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saad1901&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad1901&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=saad1901&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
