@@ -1,140 +1,152 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Shaikh%20Saad&fontSize=80&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Shaikh%20Saad&fontSize=72&fontAlignY=38&animation=fadeIn" />
 </div>
 
-<br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+Cloud+Developer;Python+%7C+Django+%7C+FastAPI+%7C+AWS;Building+Scalable+Cloud-Native+Applications;Passionate+About+Clean+Code+%26+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=820&lines=Backend+Engineer+%7C+AI-Orchestrated+Systems;Python+%7C+FastAPI+%7C+Django+%7C+LangChain+%7C+Redis;Building+Scalable+APIs%2C+Agentic+Workflows+%26+Distributed+Pipelines;M.Tech+CSE+%40+COEP+Technological+University" alt="Typing SVG" />
 </p>
-
-<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/saad99" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:saadiqbal1921@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/saad1901" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=saad1901&color=0A66C2&style=flat-square&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=saad1901&color=0F766E&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-- **Role:** Full Stack Engineer & Cloud Developer  
-- **Location:** Aurangabad, Maharashtra, India  
-- **Education:** B.Tech in Information Technology (Government College of Engineering, Aurangabad)  
-- **Postgrad:** M.Tech (Pursuing, College of Engineering Pune (COEP), graduating August 2027)  
-- **Current Role:** Full Stack Intern @ Being Social, Mumbai  
-- **Focus:** **Cloud Native Development, Microservices, System Design, ML**  
-- **Certifications:** GATE 2025 Qualified (AIR 8217)  
+```python
+class ShaikhSaad:
+    location = "Pune, Maharashtra, India"
+    role = "Backend Engineer | AI-Orchestrated Applications"
+    education = "M.Tech CSE @ COEP Technological University (2025–2027)"
+    interests = [
+        "Backend APIs",
+        "Agentic AI Systems",
+        "Distributed Async Pipelines",
+        "NL2SQL",
+        "Database Optimization"
+    ]
+```
 
-I specialize in building **robust backend systems** and **cloud-native applications** using **Python** frameworks like **Django** and **FastAPI**. Currently working on enhancing application performance and implementing scalable solutions with modern tech stacks. Passionate about clean code, system architecture, and continuous learning.
+I build scalable backend systems and AI-powered applications using Python, FastAPI, Django, LangChain, Redis, and modern database stacks.
+
+My current focus is on:
+- Agentic workflows and AI orchestration
+- Natural language to SQL systems
+- Distributed task pipelines and async workers
+- Robust backend APIs and performance optimization
 
 ---
 
-## 🛠️ Technical Skills
+## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-### Backend & Frameworks
+### AI / LLM
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-4B5563?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square&logo=semanticweb&logoColor=white" />
+<img src="https://img.shields.io/badge/Embeddings-1D4ED8?style=flat-square&logo=vectorworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+
+### Backend
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/AsyncIO-222222?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" />
 
-### Databases & Caching
+### Datastores
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 
-</td>
-<td valign="top" width="50%">
-
-### Cloud & DevOps
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+### Infra & Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
-### Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 💼 Professional Experience
+## Experience
 
-### Full Stack Intern | Being Social Service Agency, Mumbai  
-**November 2024 – March 2025**
+### Backend Development Intern  
+**Being Social Service Agency, Mumbai**  
+**Jan 2025 – Jul 2025**
 
-- Enhanced application **performance** and **reliability** across multiple technology stacks.  
-- Implemented database optimization strategies with **MariaDB** to ensure **high availability**.  
-- Collaborated with cross-functional teams to deliver **full-stack features** and improvements.  
-- Contributed to codebase maintenance and feature development using modern frameworks.  
+- Designed and implemented backend modules for new product features
+- Worked with relational databases for schema updates, migrations, and query optimization
+- Performed data cleanup and processing on legacy production datasets
+- Built and maintained RESTful APIs for frontend and internal services
 
 ---
 
-## 💡 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-### Smart Resource Access Gateway
-**Tech Stack:** FastAPI · Redis · JWT · Docker  
+### AskYourData
+**NL2SQL AI System**
 
-A **secure API gateway** implementing **JWT-based authentication** with scoped access tokens. Features include **Redis-powered rate limiting**, comprehensive audit logging, and **containerized deployment** for scalability.  
+**Tech Stack:** LangChain, Django, Ollama, OpenAI, PostgreSQL, MySQL
 
-[View Repository →](https://github.com/saad1901)
+- Built an agent that converts natural language into SQL, executes queries, and returns formatted answers
+- Added schema lookup using `INFORMATION_SCHEMA` to improve SQL accuracy
+- Secured multi-database access using sessions and encrypted credentials
+- Integrated Apache ECharts for line, bar, and pie chart visualization
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-### School ERP System
-**Tech Stack:** Django · PostgreSQL · Bootstrap  
+### Distributed Media Processing System
 
-Comprehensive educational management system with **role-based access control** for administrators, teachers, students, and parents. Includes media management, modular UI components, and dedicated dashboards.  
+**Tech Stack:** FastAPI, Redis, ARQ, Docker, Pillow, HTTPX
 
-[View Repository →](https://github.com/saad1901)
+- Built an asynchronous distributed pipeline for media watermarking and storage
+- Added Redis-backed queues with retry logic and exponential backoff
+- Containerized API and worker services for easier scaling
+- Integrated structured logging and worker-performance monitoring
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td valign="top" width="50%">
 
-### Cloud Storage Application
-**Tech Stack:** Django · AWS S3 · JWT  
+### Hotel/Restaurant Management System
+**SaaS Backend**
 
-Secure cloud storage solution integrated with **AWS S3** for reliable file management. Implements **JWT authentication**, responsive web interface, and efficient file handling capabilities.  
+**Tech Stack:** Django, MySQL, Redis, Bootstrap
 
-[View Repository →](https://github.com/saad1901)
+- Developed a multi-tenant backend with data isolation and role-based access control
+- Built modules for reservations, billing workflows, and staff management
+- Optimized queries and integrated Redis caching
+- Improved page load speed by 40%
 
 </td>
-<td width="50%">
+<td valign="top" width="50%">
 
-### Movie Recommendation Engine
-**Tech Stack:** Django · Scikit-Learn · TMDB API  
+### What I Like Building
 
-**Content-based recommendation system** leveraging machine learning algorithms (**Scikit-Learn**). Integrates real-time data from **TMDB API** with a clean, user-friendly interface.  
-
-[View Repository →](https://github.com/saad1901)
+- Backend systems with clean architecture
+- AI agents and workflow orchestration
+- Database-heavy applications
+- Distributed services and async processing
+- Practical products with strong engineering fundamentals
 
 </td>
 </tr>
@@ -142,35 +154,41 @@ Secure cloud storage solution integrated with **AWS S3** for reliable file manag
 
 ---
 
-## 🎓 Education & Achievements
+## Education
 
-### B.Tech in Information Technology  
-**Government College of Engineering, Aurangabad (GECA)** | 2021 – 2025  
-- **CGPA:** 7.76/10  
-- **Relevant Coursework:** Data Structures, DBMS, Operating Systems, Computer Networks, OOP  
+### M.Tech — Computer Science and Engineering  
+**COEP Technological University, Pune**  
+**2025 – 2027**  
+**CGPA:** 9.00
 
-### M.Tech Computer Science (Pursuing)  
-**College of Engineering Pune (COEP)** | 2025 – 2027  
-- **Relevant Coursework:** Computer Architecture, Advanced Networking, Algorithms  
-
-### Academic Achievements
-- **GATE 2025 Qualified** – All India Rank 8217  
-- **HSC (PCM)** – 94.60% | Al-Irfan Jr. College, Khuldabad  
-- **MHT-CET 2021** – 96.36 Percentile  
+### B.Tech — Information Technology  
+**Government College of Engineering Aurangabad, Chhatrapati Sambhajinagar**  
+**2021 – 2025**  
+**CGPA:** 7.71
 
 ---
 
-## 📬 Contact Me
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saad1901&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad1901&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saad1901&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:saadiqbal1921@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/saad99" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/saad1901" target="_blank">GitHub</a>
+</p>
 
 <div align="center">
-
-📧 **Email:** [saadiqbal1921@gmail.com](mailto:saadiqbal1921@gmail.com)  
-📱 **Phone:** +91 87998 78583  
-📍 **Location:** Aurangabad, Maharashtra, India  
-**Let’s build something amazing together!**
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </div>
