@@ -171,8 +171,6 @@ Currently, I am pursuing an M.Tech in Computer Science and Engineering at COEP T
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saad1901&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/pacman.png" width="100%">
-
 ## Connect
 
 <div align="center">
