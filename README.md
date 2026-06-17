@@ -26,65 +26,80 @@
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%7C%20Backend%20Systems-f59e0b?style=flat-square" />
 </p>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
 
-##  About Me
+## 🧑‍💻 About Me
 
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```python
 class ShaikhSaad:
-    role = "Backend Engineer"
-    based_in = "Pune, Maharashtra, India"
-    education = "M.Tech CSE @ COEP Technological University"
-    focus = [
+    role        = "Backend Engineer"
+    based_in    = "Pune, Maharashtra, India"
+    education   = "M.Tech CSE @ COEP Technological University"
+    focus       = [
         "AI-orchestrated applications",
         "NL2SQL systems",
         "Distributed async pipelines",
         "REST API engineering",
-        "Database optimization"
+        "Database optimization",
     ]
+
+    def currently(self):
+        return {
+            "🔭 building":      "agentic backend systems with LangChain + LangGraph",
+            "🌱 sharpening":     "RAG pipelines & distributed async architecture",
+            "💬 ask me about":  "FastAPI, Django, NL2SQL, Redis-backed async workers",
+            "⚡ fun fact":       "I'd rather optimize a query than write a UI",
+        }
 ```
 
-I specialize in building scalable backend APIs and AI-powered systems using Python, FastAPI, Django, LangChain, Redis, and relational databases.
-
-My current work is centered around backend engineering for practical AI products, especially agentic workflows, data-intensive systems, and production-oriented architectures.
+I specialize in building scalable backend APIs and AI-powered systems using **Python, FastAPI, Django, LangChain, Redis**, and relational databases. My current work centers on backend engineering for practical AI products — agentic workflows, data-intensive systems, and production-oriented architectures.
 
 <br clear="right"/>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
 
-##  Core Focus
+## 🎯 Core Focus
 
 <div align="center">
 
 | Area | What I work on |
-|---|---|
-| Backend Engineering | FastAPI, Django, REST APIs, AsyncIO |
-| AI Systems | LangChain, LangGraph, RAG, Embeddings |
-| Data Layer | PostgreSQL, MySQL, Redis, SQLite |
-| Architecture | Distributed systems, async workers, scalable services |
-| Product Direction | NL2SQL, agentic workflows, automation-oriented applications |
+|:--|:--|
+| 🧱 **Backend Engineering** | FastAPI, Django, REST APIs, AsyncIO |
+| 🤖 **AI Systems** | LangChain, LangGraph, RAG, Embeddings |
+| 🗄️ **Data Layer** | PostgreSQL, MySQL, Redis, SQLite |
+| 🏗️ **Architecture** | Distributed systems, async workers, scalable services |
+| 🧭 **Product Direction** | NL2SQL, agentic workflows, automation-oriented applications |
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
 
-##  Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-### Languages & Backend
+**Languages & Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,mysql,postgres,redis,sqlite" />
 
-### Infra & Tools
+<br><br>
+
+**Infra & Tools**
+<br>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
 
-</div>
+<br><br>
 
-<div align="center">
-
-### AI / LLM / Concepts
+**AI / LLM / Concepts**
+<br>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
 <img src="https://img.shields.io/badge/LangGraph-4B5563?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge&logo=semanticweb&logoColor=white" />
@@ -93,22 +108,26 @@ My current work is centered around backend engineering for practical AI products
 
 </div>
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
 
-##  Experience
+## 💼 Experience
 
-### Backend Development Intern  
-**Being Social Service Agency — Mumbai, India**  
-**Jan 2025 – Jul 2025**
+### Backend Development Intern
+**Being Social Service Agency — Mumbai, India**
+`Jan 2025 – Jul 2025`
 
-- Designed and implemented backend modules to support new product features.
-- Worked extensively on relational databases for schema updates, migrations, and query optimization.
-- Performed legacy production data cleanup and processing to improve consistency and performance.
-- Built and maintained RESTful APIs used by frontend and internal services.
+- Designed and implemented backend modules to support new product features
+- Worked extensively on relational databases for schema updates, migrations, and query optimization
+- Performed legacy production data cleanup and processing to improve consistency and performance
+- Built and maintained RESTful APIs used by frontend and internal services
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/saad1901" target="_blank">
@@ -125,39 +144,49 @@ My current work is centered around backend engineering for practical AI products
   </a>
 </div>
 
-### AskYourData — NL2SQL AI System
+### 🗣️ AskYourData — NL2SQL AI System
 **LangChain · Django · Ollama · OpenAI · PostgreSQL · MySQL**
 
-- Built an AI agent that converts natural language into SQL, executes queries, and returns formatted output.
-- Added schema lookup from `INFORMATION_SCHEMA` to improve query accuracy.
-- Secured multi-database access using sessions and encrypted credentials.
-- Integrated Apache ECharts for dynamic chart visualizations.
+- Built an AI agent that converts natural language into SQL, executes queries, and returns formatted output
+- Added schema lookup from `INFORMATION_SCHEMA` to improve query accuracy
+- Secured multi-database access using sessions and encrypted credentials
+- Integrated Apache ECharts for dynamic chart visualizations
 
-### Distributed Media Processing System
+### ⚙️ Distributed Media Processing System
 **FastAPI · Redis · ARQ · Docker · Pillow · HTTPX**
 
-- Designed an asynchronous distributed pipeline for media watermarking and storage.
-- Used Redis-backed task queues with retry logic and exponential backoff for fault tolerance.
-- Containerized API and worker services for easier deployment and horizontal scaling.
-- Added structured logging and monitoring for worker performance and task latency.
+- Designed an asynchronous distributed pipeline for media watermarking and storage
+- Used Redis-backed task queues with retry logic and exponential backoff for fault tolerance
+- Containerized API and worker services for easier deployment and horizontal scaling
+- Added structured logging and monitoring for worker performance and task latency
 
-### Hotel/Restaurant Management System
+### 🏨 Hotel/Restaurant Management System
 **Django · MySQL · Redis · Bootstrap**
 
-- Developed a multi-tenant backend with data isolation and role-based access control.
-- Built modules for reservations, billing automation, and staff workflows.
-- Optimized queries and integrated Redis caching to improve page load speed by 40%.
+- Developed a multi-tenant backend with data isolation and role-based access control
+- Built modules for reservations, billing automation, and staff workflows
+- Optimized queries and integrated Redis caching to improve page load speed by **40%**
 
----
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
 
-##  Education
+## 🎓 Education
 
-- **M.Tech — Computer Science and Engineering**, COEP Technological University, Pune (2025–2027), CGPA: 9.00
-- **B.Tech — Information Technology**, Government College of Engineering Aurangabad, Chhatrapati Sambhajinagar (2021–2025), CGPA: 7.71
+<div align="center">
 
----
+| Degree | Institute | Years | CGPA |
+|:--|:--|:--:|:--:|
+| 🎓 M.Tech — Computer Science and Engineering | COEP Technological University, Pune | 2025–2027 | **9.00** |
+| 🎓 B.Tech — Information Technology | Government College of Engineering Aurangabad | 2021–2025 | **7.71** |
 
-##  GitHub Analytics
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=saad1901&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -172,19 +201,33 @@ My current work is centered around backend engineering for practical AI products
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad1901&theme=tokyonight" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saad1901&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
-##  Current Direction
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/saad1901/saad1901/output/github-contribution-grid-snake.svg" />
+  <br>
+  <sub>⚙️ Snake graph powered by <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a> — add the workflow to your profile repo to activate it</sub>
+</div>
 
-- Building backend systems with clean architecture
-- Exploring agentic AI workflows and LangGraph patterns
-- Improving NL2SQL reliability and query accuracy
-- Working on distributed services with Redis-backed async processing
-- Focusing on production-grade engineering practices
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
 
----
+## 🧭 Current Direction
 
-##  Connect
+- 🏗️ Building backend systems with clean architecture
+- 🤖 Exploring agentic AI workflows and LangGraph patterns
+- 🎯 Improving NL2SQL reliability and query accuracy
+- ⚡ Working on distributed services with Redis-backed async processing
+- 📐 Focusing on production-grade engineering practices
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:14b8a6,100:1e293b&height=3" />
+</div>
+
+## 📬 Connect
 
 <div align="center">
   <a href="mailto:saadiqbal1921@gmail.com">
@@ -192,6 +235,9 @@ My current work is centered around backend engineering for practical AI products
   </a>
   <a href="https://linkedin.com/in/saad99" target="_blank">
     <img src="https://img.shields.io/badge/Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/saad1901" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-saad1901-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
