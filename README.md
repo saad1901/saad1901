@@ -161,14 +161,9 @@ Currently, I am pursuing an M.Tech in Computer Science and Engineering at COEP T
 ## GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com?user=saad1901&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad1901&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saad1901&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=saad1901&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad1901&theme=tokyonight" alt="Profile Details" />
 </div>
 
 ## Connect
