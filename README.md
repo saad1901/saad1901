@@ -159,7 +159,6 @@ Currently, I am pursuing an M.Tech in Computer Science and Engineering at COEP T
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## GitHub Analytics
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0f172a,45:0f766e,70:06b6d4,100:1e293b&text=Shaikh%20Saad&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20AI-Orchestrated%20Applications%20%7C%20M.Tech%20CSE%20@%20COEP&descAlignY=58&descSize=18" alt="Header Image" />
 </div>
@@ -182,7 +181,6 @@ Currently, I am pursuing an M.Tech in Computer Science and Engineering at COEP T
   </a>
   <img src="https://komarev.com/ghpvc/?username=saad1901&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
 
 
 
