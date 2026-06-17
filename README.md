@@ -161,6 +161,33 @@ Currently, I am pursuing an M.Tech in Computer Science and Engineering at COEP T
 ## GitHub Analytics
 
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:0f172a,45:0f766e,70:06b6d4,100:1e293b&text=Shaikh%20Saad&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20AI-Orchestrated%20Applications%20%7C%20M.Tech%20CSE%20@%20COEP&descAlignY=58&descSize=18" alt="Header Image" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=130&lines=Building+scalable+backend+APIs+and+AI-powered+systems;FastAPI+%7C+Django+%7C+LangChain+%7C+Redis+%7C+PostgreSQL;Focused+on+NL2SQL%2C+agentic+workflows+and+distributed+async+pipelines" alt="Typing SVG" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <a href="mailto:saadiqbal1921@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/saad99" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/saad1901" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=saad1901&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+
+
+
+
+<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=saad1901&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad1901&theme=tokyonight" alt="Profile Details" />
