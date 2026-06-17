@@ -30,19 +30,13 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saad1901&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" />
-</div>
-
-<br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ## About Me
 
 I am a Backend Engineer specializing in Python and AI-orchestrated applications. My expertise lies in architecting scalable backend APIs, automating agentic workflows, and deploying distributed asynchronous pipelines using **Django, FastAPI, LangChain, and Redis**.
 
-Currently, I am pursuing an M.Tech in Computer Science and Engineering at COEP Technological University, Pune, balancing rigorous academics (9.00 CGPA) with the development of production-grade backend and AI-driven systems.
+Currently, I am pursuing an M.Tech in Computer Science and Engineering at COEP Technological University, Pune, balancing academics with the development of production-grade backend and AI-driven systems.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
